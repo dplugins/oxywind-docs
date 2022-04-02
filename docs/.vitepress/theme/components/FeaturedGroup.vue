@@ -52,14 +52,7 @@ onMounted(async () => {
         target="_blank"
         rel="featureded noopener"
       >
-        <picture v-if="img.endsWith('png')">
-          <source
-            type="image/avif"
-            :srcset="`${img.replace(/\.png$/, '.avif')}`"
-          />
-          <img :src="`${img}`" :alt="name" />
-        </picture>
-        <img v-else :src="`${img}`" :alt="name" />
+        <img :src="`${img}`" :alt="name" />
       </a>
     </template>
     <a

@@ -1,0 +1,7 @@
+[build.environment]
+  NODE_VERSION = "16"
+  NPM_FLAGS = "--version" # prevent Netlify npm install
+
+[build]
+  publish = "./docs/.vitepress/dist"
+  command = "cd ./theme && npx pnpm install && npx pnpm link --global && cd .. && cd ./docs && npx pnpm install && npx pnpm link --global @vue/theme && npx pnpm run build"

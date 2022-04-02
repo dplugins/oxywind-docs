@@ -20,14 +20,13 @@ Oxywind on the other hand provides a solution to integrate Tailwind CSS (one of 
 
 ## How does Oxywind compare to Automaticcss?
 
-Automaticcss is a new utitilty-first CSS framework.
+Automaticcss is just a new utitilty-first CSS framework.
 
 Oxywind on the other hand provides a solution to integrate Tailwind CSS (one of the first original CSS frameworks which came out quite some time ago) to Oxygen Builder, not a brand new CSS framework.
 
-## Does Oxywind compete and as a replacement for CORE CSS framework, OxyMade Framework, Automaticcss?
+## Does Oxywind compete or as a replacement for the CORE CSS framework, OxyMade Framework, Automaticcss?
 
 Oxywind is a solution to integrate Tailwind CSS (one of the first original CSS frameworks which came out quite some time ago) to Oxygen Builder, not a brand new CSS framework.
 
-So, Oxywind is not competing and as a replacement for the CORE CSS framework, OxyMade Framework, and Automaticcss, Tailwind CSS does.
-Tailwind CSS is widely used as the standard for utility-first CSS framework.
-
+So, Oxywind is not competing or as a replacement for the CORE CSS framework, OxyMade Framework, and Automaticcss.
+They compete with Tailwind CSS, not Oxywind.

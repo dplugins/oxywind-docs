@@ -47,7 +47,7 @@ There are several ways to patch the Oxygen Builder, either by using Oxywind's pa
 
 ### Oxywind's Patcher Feature
 
-Oxywind has a patcher feature that allows you to patch the Oxygen Builder. The feature is accessible from the Oxygen Builder's **Oxygen Builder > Oxywind** menu and under the **License** tab.
+Oxywind has a patcher feature that allows you to patch the Oxygen Builder. The feature is accessible from the **Oxygen Builder > Oxywind** menu and under the **License** tab.
 
 On the **Setup** section, Click the "Patch now!" link.
 
@@ -57,7 +57,7 @@ If your server doesn't have the PHP `exec` function enabled or you don't have Gi
 
 ### Manual Patching
 
-If the Oxywind's patched feature failed to patch the Oxygen Builder, you can manually patch the Oxygen Builder by following this guide.
+If the Oxywind's patcher feature failed to patch the Oxygen Builder, you can manually patch the Oxygen Builder by following this guide.
 
 Download the latest Oxygen Builder plugin zip file from the [Oxygen Builder website](https://oxygenbuilder.com/portal/).
 

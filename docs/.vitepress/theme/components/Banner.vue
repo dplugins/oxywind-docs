@@ -21,11 +21,11 @@ function dismiss() {
 <template>
   <div class="banner" v-if="open">
     Oxygen Builder 4 is now supported!
-    <a
+    <!-- <a
       href="https://blog.vuejs.org/posts/vue-3-as-the-new-default.html"
       target="_blank"
       >Learn more</a
-    >
+    > -->
   </div>
 </template>
 
