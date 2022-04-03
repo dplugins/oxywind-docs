@@ -41,6 +41,8 @@ const nav = [
     activeMatch: `^/about/`,
     items: [
       { text: 'FAQ', link: '/about/faq' },
+      { text: 'Feedback', link: 'https://github.com/dplugins/oxywind-docs/issues' },
+      { text: 'Roadmap', link: 'https://github.com/dplugins/oxywind-docs/projects/1' },
       // { text: 'Change Log', link: '/about/releases' },
       // { text: 'Variant', link: '/about/variant' },
     ]
