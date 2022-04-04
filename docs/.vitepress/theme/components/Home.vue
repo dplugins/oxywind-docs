@@ -16,7 +16,7 @@ import WhyVueModal from './WhyVueModal.vue';
       Rapidly build modern websites with less click is now made possible inside Oxygen Builder.
     </p>
     <p class="actions">
-      <why-vue-modal />
+      <!-- <why-vue-modal /> -->
       <a class="get-started" href="/guide/introduction.html">
         Get Started
         <svg
