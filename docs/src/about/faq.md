@@ -10,23 +10,18 @@ If you are totally new to Tailwind CSS, it might not be the best idea to jump ri
 
 CORE CSS framework is a CSS framework by the OxyNinja team and wrapped into Oxygen Builder-specified WordPress plugins. Oxyninja also offer design sets or section based on the CORE CSS framework.
 
-Oxywind on the other hand provides a solution to integrate Tailwind CSS (one of the first original CSS frameworks which came out quite some time ago) to Oxygen Builder, not a brand new CSS framework.
+Oxywind on the other hand provides a solution to integrate Tailwind CSS to Oxygen Builder, not a brand new CSS framework.
 
-## How does Oxywind compare to Oxymade Framework?
+## How does Oxywind compare to OxyMade Framework?
 
 OxyMade framework is based on Tailwind CSS v2.0 while Oxywind is running the latest version of Tailwind CSS (v3.0). Oxymade also builds a bunch of design sets or templates based on the OxyMade framework.
 
-Oxywind on the other hand provides a solution to integrate Tailwind CSS (one of the first original CSS frameworks which came out quite some time ago) to Oxygen Builder, not a brand new CSS framework.
+Oxywind on the other hand provides a solution to integrate Tailwind CSS to Oxygen Builder, not a brand new CSS framework.
 
-## How does Oxywind compare to Automaticcss?
+We are in negotiation with OxyMade team to provide a seamless experience to migrate the OxyMade design sets (OxyMade framework based) into Tailwind CSS.
 
-Automaticcss is just a new utitilty-first CSS framework.
+## Does Oxywind compete or as a replacement for the CORE CSS framework, OxyMade Framework?
 
-Oxywind on the other hand provides a solution to integrate Tailwind CSS (one of the first original CSS frameworks which came out quite some time ago) to Oxygen Builder, not a brand new CSS framework.
+Oxywind is a solution to integrate Tailwind CSS to Oxygen Builder, not a brand new CSS framework.
 
-## Does Oxywind compete or as a replacement for the CORE CSS framework, OxyMade Framework, Automaticcss?
-
-Oxywind is a solution to integrate Tailwind CSS (one of the first original CSS frameworks which came out quite some time ago) to Oxygen Builder, not a brand new CSS framework.
-
-So, Oxywind is not competing or as a replacement for the CORE CSS framework, OxyMade Framework, and Automaticcss.
-They compete with Tailwind CSS, not Oxywind.
+So, Oxywind is not competing or as a replacement for the CORE CSS framework, and OxyMade Framework. 

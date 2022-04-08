@@ -57,6 +57,8 @@ If your server doesn't have the PHP `exec` function enabled or you don't have Gi
 
 ### Manual Patching
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YD0Wh3myKXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
 If the Oxywind's patcher feature failed to patch the Oxygen Builder, you can manually patch the Oxygen Builder by following this guide.
 
 Download the latest Oxygen Builder plugin zip file from the [Oxygen Builder website](https://oxygenbuilder.com/portal/).
