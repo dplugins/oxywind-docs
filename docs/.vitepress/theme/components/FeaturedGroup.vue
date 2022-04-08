@@ -56,7 +56,7 @@ onMounted(async () => {
       </a>
     </template>
     <a
-      href="/featured/"
+      href="https://github.com/dplugins/oxywind-docs/issues/new"
       class="featured-item action"
       >Your logo</a
     >

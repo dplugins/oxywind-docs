@@ -144,7 +144,7 @@ export default defineConfigWithTheme<ThemeConfig>({
       //   text: 'MIT License',
       //   link: 'https://opensource.org/licenses/MIT'
       // },
-      copyright: `Copyright © 2021-${new Date().getFullYear()} dplugins.com`,
+      copyright: `Copyright © ${new Date().getFullYear()} dplugins.com`,
     }
   },
 
